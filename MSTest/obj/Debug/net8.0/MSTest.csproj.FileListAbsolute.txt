@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\MSTest\MSTest\obj\Debug\net8.0\MSTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\MSTest\MSTest\obj\Debug\net8.0\MSTest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MSTest\MSTest\obj\Debug\net8.0\MSTest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MSTest\MSTest\obj\Debug\net8.0\MSTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MSTest\MSTest\bin\Debug\net8.0\MSTest.exe
+C:\Users\Administrator\source\repos\MSTest\MSTest\bin\Debug\net8.0\MSTest.deps.json
+C:\Users\Administrator\source\repos\MSTest\MSTest\bin\Debug\net8.0\MSTest.runtimeconfig.json
+C:\Users\Administrator\source\repos\MSTest\MSTest\bin\Debug\net8.0\MSTest.dll
+C:\Users\Administrator\source\repos\MSTest\MSTest\bin\Debug\net8.0\MSTest.pdb
+C:\Users\Administrator\source\repos\MSTest\MSTest\obj\Debug\net8.0\MSTest.dll
+C:\Users\Administrator\source\repos\MSTest\MSTest\obj\Debug\net8.0\refint\MSTest.dll
+C:\Users\Administrator\source\repos\MSTest\MSTest\obj\Debug\net8.0\MSTest.pdb
+C:\Users\Administrator\source\repos\MSTest\MSTest\obj\Debug\net8.0\MSTest.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\MSTest\MSTest\obj\Debug\net8.0\ref\MSTest.dll
